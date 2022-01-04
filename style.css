@@ -375,7 +375,7 @@ header #menu{
 
 .teacher{
     text-align: center;
-    background:url(../teachers.jfif) no-repeat;
+    background:url(teachers.jfif) no-repeat;
     background-size: cover;
     background-position: bottom;
 }
